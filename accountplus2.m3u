@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="notice" tvg-name="Subscription Notice" group-title="Support",Activation Notice
+https://raw.githubusercontent.com/ottakannanofficial/contact/main/accountplus.m3u
+
+#EXTINF:-1 tvg-id="contact" tvg-name="WhatsApp Support" group-title="Support",Contact Support
+https://raw.githubusercontent.com/ottakannanofficial/contact/main/accountplus.m3u
