@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="notice" tvg-name="Subscription Notice" group-title="Support",Activation Notice
+#EXTINF:-1 tvg-id="notice" tvg-name="Subscription Notice" group-title="Support",Activation, renewal, support WhatsApp: +91 97369 34914
 https://raw.githubusercontent.com/ottakannanofficial/contact/refs/heads/main/accountplus.m3u
 
 #EXTINF:-1 tvg-id="contact" tvg-name="WhatsApp Support" group-title="Support",WhatsApp: +91 97369 34914
